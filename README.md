@@ -17,4 +17,4 @@
 <img class="alignnone size-medium" src="https://raw.githubusercontent.com/QAQ000000/mb/main/1e4e74499882cd55.jpg" width="958" height="768" />
 
 &nbsp;
-本项目由张月通，耗时半个小时的开发完成
+本项目由张月通，耗时半小时开发完成
